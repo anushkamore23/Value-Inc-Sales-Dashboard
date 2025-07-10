@@ -19,7 +19,7 @@ Value Inc.'s Sales Manager had no access to structured reporting and lacked visi
 - Fields included: `Transaction Date`, `Sales`, `Cost`, `Profit`, `Item Code`, `Client Age`, `Client Type`, `Country`
 - Data was cleaned and prepared using the [`valueinc_sales.py`](https://github.com/anushkamore23/Python-Tableau/blob/main/valueinc_sales.py) Python script.
 
----
+
 
 ## 📊 Dashboard Features
 
@@ -33,7 +33,7 @@ Value Inc.'s Sales Manager had no access to structured reporting and lacked visi
 | **Profit by Client Age Group**   | Identifies most profitable customer age group (Seniors).                   |
 | **Profit by Client Type**        | Shows which client category (Corporation, Small Business, Solo) is best.   |
 
----
+
 
 ## Key Insights
 
@@ -43,7 +43,7 @@ Value Inc.'s Sales Manager had no access to structured reporting and lacked visi
 -  **Corporations** were the most profitable client type: `$62.58M`
 -  **February 2018** had an unusually high sales and profit spike
 
----
+
 
 ## Tech Stack
 
@@ -54,7 +54,7 @@ Value Inc.'s Sales Manager had no access to structured reporting and lacked visi
 | **Tableau** | Interactive dashboard and visuals   |
 | **Excel**   | Original data source                |
 
----
 
-## 🗂️ Repository Structure
+
+
 
