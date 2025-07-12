@@ -54,7 +54,7 @@ Value Inc.'s Sales Manager had no access to structured reporting and lacked visi
 | **Tableau** | Interactive dashboard and visuals   |
 | **Excel**   | Original data source                |
 
-<img width="2099" height="1424" alt="ValuInc_dashboard" src="https://github.com/user-attachments/assets/84615d3f-46e9-401a-8b34-444c4be9d670" />
+<img width="1500" height="1500" alt="ValuInc_dashboard" src="https://github.com/user-attachments/assets/84615d3f-46e9-401a-8b34-444c4be9d670" />
 
 
 
