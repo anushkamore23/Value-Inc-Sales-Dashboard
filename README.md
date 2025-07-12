@@ -1,7 +1,7 @@
 ## ValueInc Sales Dashboard
 
 A Tableau dashboard project designed to help **Value Inc.**, a global retail store that sells household items in bulk, gain clear insights into their sales, cost, and profit performance using Excel data.
-
+View Dashboard:(https://public.tableau.com/app/profile/anushka.more8758/viz/Book1_17364391144760/Dashboard1)
 ## Project Overview
 
 Value Inc.'s Sales Manager had no access to structured reporting and lacked visibility into monthly costs, top-selling items, and customer demographics. This project bridges that gap using a visually interactive dashboard built with **Tableau** and powered by data preprocessing in **Python**.
@@ -54,7 +54,7 @@ Value Inc.'s Sales Manager had no access to structured reporting and lacked visi
 | **Tableau** | Interactive dashboard and visuals   |
 | **Excel**   | Original data source                |
 
-<img width="1500" height="1500" alt="ValuInc_dashboard" src="https://github.com/user-attachments/assets/84615d3f-46e9-401a-8b34-444c4be9d670" />
+<img width="1000" height="1000" alt="ValuInc_dashboard" src="https://github.com/user-attachments/assets/84615d3f-46e9-401a-8b34-444c4be9d670" />
 
 
 
