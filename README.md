@@ -15,9 +15,9 @@ Value Inc.'s Sales Manager had no access to structured reporting and lacked visi
 
 ## Data Source
 
-- Format: `.xlsx` (Excel Spreadsheet)
+- Format: `.xlsx` (Excel Spreadsheet) Download dataset from here (https://docs.google.com/spreadsheets/d/1McyKkIMwY3kDkiP7LvTTnwhb07LHeYU-/edit?usp=drive_link&ouid=117369537525331959266&rtpof=true&sd=true)
 - Fields included: `Transaction Date`, `Sales`, `Cost`, `Profit`, `Item Code`, `Client Age`, `Client Type`, `Country`
-- Data was cleaned and prepared using the [`valueinc_sales.py`](https://github.com/anushkamore23/Python-Tableau/blob/main/valueinc_sales.py) Python script.
+- Data was cleaned and prepared using the [`valueinc_sales.py`](https://github.com/anushkamore23/Value-Inc-Sales-Dashboard/blob/main/valueinc_sales.py) Python script.
 
 
 
@@ -54,6 +54,7 @@ Value Inc.'s Sales Manager had no access to structured reporting and lacked visi
 | **Tableau** | Interactive dashboard and visuals   |
 | **Excel**   | Original data source                |
 
+<img width="2099" height="1424" alt="ValuInc_dashboard" src="https://github.com/user-attachments/assets/84615d3f-46e9-401a-8b34-444c4be9d670" />
 
 
 
